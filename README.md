@@ -1,4 +1,4 @@
-# Final-Project-Template
+# Final-Project-AirPro
 <!-- Edit the title above with your project title -->
 
 ## Installing Dependencies
