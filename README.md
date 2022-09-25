@@ -1,4 +1,4 @@
-# Final-Project-AirPro: Analyzing Data to Solve Criminal Activity 
+# Final-Project-AirPro: Predicting Violent Crime by Geographical Location and Type
 ## My Final Project For the Data Technologies Analytics Class 
 <!-- Edit the title above with your project title -->
 
