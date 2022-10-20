@@ -39,3 +39,6 @@ Each dataset will add some relevant part of the total picture needed to make rea
 This assignment does not assume any particular setup. To install the dependencies, please run the command relevant to you're setup.
 - if you're using `poetry`, run `poetry install`.
 - If you're using `pipenv`, run `pipenv install`.
+
+## References
+https://www.kaggle.com/code/edoardo10/fatal-police-shooting-eda-plotly-seaborn
